@@ -1,0 +1,136 @@
+{
+    "Heading": {
+      "value": "Poppins",
+      "type": "fontFamilies"
+    },
+    "Text": {
+      "value": "Poppins",
+      "type": "fontFamilies"
+    },
+    "Code": {
+      "value": "monospace",
+      "type": "fontFamilies"
+    },
+    "Brand-01": {
+      "darkest": {
+        "value": "$Neutral.dark.95",
+        "type": "color"
+      },
+      "darker": {
+        "value": "$Neutral.dark.90",
+        "type": "color"
+      },
+      "dark": {
+        "value": "$Neutral.dark.80",
+        "type": "color"
+      },
+      "base": {
+        "value": "$Neutral.dark.70",
+        "type": "color"
+      },
+      "light": {
+        "value": "$Neutral.light.30",
+        "type": "color"
+      },
+      "lighter": {
+        "value": "$Neutral.light.20",
+        "type": "color"
+      },
+      "lightest": {
+        "value": "$Neutral.light.10",
+        "type": "color"
+      }
+    },
+    "Action": {
+      "default": {
+        "value": "$Brand-01.base",
+        "type": "color"
+      },
+      "hover": {
+        "value": "$Brand-01.dark",
+        "type": "color"
+      },
+      "pressed": {
+        "value": "$Brand-01.darker",
+        "type": "color"
+      },
+      "focus": {
+        "value": "$Brand-01.darkest",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "$Neutral.light.30",
+        "type": "color"
+      }
+    },
+    "Neutral": {
+      "light": {
+        "10": {
+          "value": "#E5e5e5",
+          "type": "color"
+        },
+        "20": {
+          "value": "#cccccc",
+          "type": "color"
+        },
+        "30": {
+          "value": "#b2b2b2",
+          "type": "color"
+        },
+        "05": {
+          "value": "#F2f2f2",
+          "type": "color"
+        },
+        "00": {
+          "value": "#FFFFFF",
+          "type": "color"
+        }
+      },
+      "mid": {
+        "40": {
+          "value": "#999999",
+          "type": "color"
+        },
+        "60": {
+          "value": "#666666",
+          "type": "color"
+        }
+      },
+      "dark": {
+        "70": {
+          "value": "#4d4d4d",
+          "type": "color"
+        },
+        "80": {
+          "value": "#363636",
+          "type": "color"
+        },
+        "90": {
+          "value": "#1a1a1a",
+          "type": "color"
+        },
+        "95": {
+          "value": "#0d0d0d",
+          "type": "color"
+        }
+      }
+    },
+    "button": {
+      "value": "$border-radius.lg",
+      "type": "borderRadius"
+    },
+    "font-weight": {
+      "normal": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "semibold": {
+        "value": "SemiBold",
+        "type": "fontWeights"
+      },
+      "bold": {
+        "value": "Bold",
+        "type": "fontWeights"
+      }
+    }
+  }
