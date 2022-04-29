@@ -1,3 +1,3 @@
-# Preview tokens globais
+# Tokens Animalia Design System
 
-com Figma Tokens
+## Como funciona?
